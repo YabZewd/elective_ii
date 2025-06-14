@@ -38,8 +38,6 @@ Make sure the following are installed:
 - Android Studio / Visual Studio Code
 - A physical device or emulator
 
-Also, ensure the **backend server** is running locally at `http://localhost:8000` or `http://<your-local-ip>:8000`.
-
 ### Clone the Project
 
 ```bash
