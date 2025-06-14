@@ -1,6 +1,6 @@
 # 🚀 Project Nova
 
-**Project Nova** is a mobile application designed to streamline reservation and review management for businesses such as medical clinics, salons, and other service providers. It provides a clean and intuitive interface for users to book services, view feedback, and submit reviews, all from their smartphones.
+**Project Nova** is a mobile application designed to streamline reservation and review management for Parking providers. It provides a clean and intuitive interface for users to book services, view feedback, and submit reviews, all from their smartphones.
 
 > ⚠️ **Note:** This repository contains **only the frontend code** of Project Nova. The backend (REST API) runs locally on a development server and **is not included** in this repository.
 
